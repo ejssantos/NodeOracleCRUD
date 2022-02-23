@@ -1,0 +1,23 @@
+{
+  "name": "nodeoracledb",
+  "version": "1.0.0",
+  "description": "Aplicação Nodejs com conexão ao banco de dados Oracle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejssantos/NodeOraDB.git"
+  },
+  "author": "Eduardo José Silva dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejssantos/NodeOraDB/issues"
+  },
+  "homepage": "https://github.com/ejssantos/NodeOraDB#readme",
+  "dependencies": {
+    "instantclient": "^1.0.2",
+    "oracledb": "^5.3.0"
+  }
+}

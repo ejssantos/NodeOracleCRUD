@@ -1,0 +1,11 @@
+Criado o arquivo app.js
+
+Instruções executadas:
+
+  npm install instantclient
+  Atribuir "C:\oracle\instantclient_21_3" na variável de ambiente ORACLE_HOME.
+
+    A instrução acima resolveu o problema "Error: DPI-1072: the Oracle Client library version is unsupported".
+
+
+Fonte: https://www.oracle.com/database/technologies/appdev/quickstartnodeonprem.html
